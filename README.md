@@ -22,4 +22,4 @@
 
 Приложение запускается командой python scripts/main.py из корневого каталога work_fixed.
 Скрипты run.bat (Windows) и run.sh (Linux/macOS) автоматически проверяют наличие зависимостей и запускают приложение.
-Альтернативный запуск - wor_fixed/work_fixed/main.py.
+Альтернативный запуск - work_fixed/work_fixed/main.py.
